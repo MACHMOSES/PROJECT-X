@@ -7,8 +7,16 @@ a{
     text-decoration: none;
 }
 
-ul li{
-    display: inline£;
+.a{
+    height: 10px;
+    width: 40px;
+    background-color: aquamarine;
+    margin-bottom: 10px;
+}
+
+nav ul li{
+    float: right;
+    display: inline;git
 }
 
 

@@ -7,16 +7,33 @@ a{
     text-decoration: none;
 }
 
-.a{
-    height: 10px;
-    width: 40px;
-    background-color: aquamarine;
-    margin-bottom: 10px;
+nav {
+    width: 1200px;
+    height: 50px;
+    margin: 40px auto;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+
+#hamburger {
+    margin-top: 12px;
+}
+
+#hamburger > div{
+    height: 5px;
+    width: 30px;
+    background-color:  black;
+    margin-bottom: 3px;
 }
 
 nav ul li{
     float: right;
     display: inline;
+}
+
+#root {
+    width: 1200px;
+    margin: 0 auto;
 }
 
 
